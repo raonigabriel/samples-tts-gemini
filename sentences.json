@@ -1,0 +1,372 @@
+[
+  {
+    "category": "Travel & Booking",
+    "sentences": [
+      {
+        "locale": "en-US",
+        "text": "On October 14, 2026, our group of 8 travelers will take the 9:30 AM train to the capital city, and the total ticket price for everyone is $345.50."
+      },
+      {
+        "locale": "pt-BR",
+        "text": "Em 14 de outubro de 2026, nosso grupo de 8 viajantes pegará o trem das 9:30 da manhã para a capital, e o preço total das passagens para todos é de R$ 345,50."
+      },
+      {
+        "locale": "es-ES",
+        "text": "El 14 de octubre de 2026, nuestro grupo de 8 viajeros tomará el tren de las 9:30 de la mañana hacia la capital, y el precio total de los billetes para todos es de 345,50 €."
+      },
+      {
+        "locale": "fr-FR",
+        "text": "Le 14 octobre 2026, notre groupe de 8 voyageurs prendra le train de 9h30 vers la capitale, et le prix total des billets pour tout le monde est de 345,50 €."
+      },
+      {
+        "locale": "de-DE",
+        "text": "Am 14. Oktober 2026 nimmt unsere Gruppe von 8 Reisenden den Zug um 9:30 Uhr in die Hauptstadt, und der gesamte Ticketpreis für alle beträgt 345,50 €."
+      },
+      {
+        "locale": "hi-IN",
+        "text": "14 अक्टूबर 2026 को, हमारे 8 यात्रियों का समूह सुबह 9:30 बजे की ट्रेन से राजधानी शहर जाएगा, और सभी के लिए कुल टिकट की कीमत $345.50 है।"
+      },
+      {
+        "locale": "ja-JP",
+        "text": "2026年10月14日、私たちの8人の旅行グループは午前9時30分の電車で首都へ向かいますが、全員のチケットの合計金額は345.50ドルです。"
+      },
+      {
+        "locale": "zh-CN",
+        "text": "2026年10月14日，我们一行8名旅客将乘坐上午9点30分的火车前往首都，所有人的车票总价为345.50美元。"
+      }
+    ]
+  },
+  {
+    "category": "Retail & E-Commerce",
+    "sentences": [
+      {
+        "locale": "en-US",
+        "text": "Your order of 12 glass bottles and 4 wooden boxes was shipped on May 22, 2025, and the final payment of $189.95 was charged to your bank account."
+      },
+      {
+        "locale": "pt-BR",
+        "text": "Seu pedido de 12 garrafas de vidro e 4 caixas de madeira foi enviado em 22 de maio de 2025, e o pagamento final de R$ 189,95 foi cobrado em sua conta bancária."
+      },
+      {
+        "locale": "es-ES",
+        "text": "Su pedido de 12 botellas de vidrio y 4 cajas de madera fue enviado el 22 de mayo de 2025, y el pago final de 189,95 € se cargó en su cuenta bancaria."
+      },
+      {
+        "locale": "fr-FR",
+        "text": "Votre commande de 12 bouteilles en verre et de 4 boîtes en bois a été expédiée le 22 mai 2025, et le paiement final de 189,95 € a été débité de votre compte bancaire."
+      },
+      {
+        "locale": "de-DE",
+        "text": "Ihre Bestellung von 12 Glasflaschen und 4 Holzkisten wurde am 22. Mai 2025 versandt, und die Abschlusszahlung von 189,95 € wurde Ihrem Bankkonto belastet."
+      },
+      {
+        "locale": "hi-IN",
+        "text": "12 कांच की बोतलों और 4 लकड़ी के बक्सों का आपका ऑर्डर 22 मई 2025 को भेज दिया गया था, और $189.95 का अंतिम भुगतान आपके बैंक खाते से लिया गया था।"
+      },
+      {
+        "locale": "ja-JP",
+        "text": "ガラス瓶12本と木箱4個のご注文は2025年5月22日に発送され、189.95ドルの最終支払いがお客様の銀行口座に請求されました。"
+      },
+      {
+        "locale": "zh-CN",
+        "text": "您订购的12个玻璃瓶和4个木箱已于2025年5月22日发货，189.95美元的最终款项已从您的银行账户中扣除。"
+      }
+    ]
+  },
+  {
+    "category": "Weather & Environment",
+    "sentences": [
+      {
+        "locale": "en-US",
+        "text": "Between January 10 and March 25, the local weather station recorded 145 millimeters of rain, while the average daily temperature stayed near 18 degrees Celsius across all 16 towns."
+      },
+      {
+        "locale": "pt-BR",
+        "text": "Entre 10 de janeiro e 25 de março, a estação meteorológica local registrou 145 milímetros de chuva, enquanto a temperatura média diária ficou perto de 18 graus Celsius em todas as 16 cidades."
+      },
+      {
+        "locale": "es-ES",
+        "text": "Entre el 10 de enero y el 25 de marzo, la estación meteorológica local registró 145 milímetros de lluvia, mientras que la temperatura media diaria se mantuvo cerca de los 18 grados Celsius en los 16 municipios."
+      },
+      {
+        "locale": "fr-FR",
+        "text": "Entre le 10 janvier et le 25 mars, la station météorologique locale a enregistré 145 millimètres de pluie, tandis que la température quotidienne moyenne est restée proche de 18 degrés Celsius dans les 16 villes."
+      },
+      {
+        "locale": "de-DE",
+        "text": "Zwischen dem 10. Januar und dem 25. März verzeichnete die örtliche Wetterstation 145 Millimeter Regen, während die durchschnittliche Tagestemperatur in allen 16 Städten bei knapp 18 Grad Celsius blieb."
+      },
+      {
+        "locale": "hi-IN",
+        "text": "10 जनवरी से 25 मार्च के बीच, स्थानीय मौसम केंद्र ने 145 मिलीमीटर बारिश दर्ज की, जबकि सभी 16 कस्बों में औसत दैनिक तापमान 18 डिग्री सेल्सियस के आसपास रहा।"
+      },
+      {
+        "locale": "ja-JP",
+        "text": "1月10日から3月25日までの間に、地元の気象観測所は145ミリメートルの雨を記録し、16の町すべてで1日の平均気温は摂氏18度近くに留まりました。"
+      },
+      {
+        "locale": "zh-CN",
+        "text": "在1月10日至3月25日期间，当地气象站记录了145毫米的降雨量，而所有16个城镇的日平均气温均保持在18摄氏度左右。"
+      }
+    ]
+  },
+  {
+    "category": "Business & Finance",
+    "sentences": [
+      {
+        "locale": "en-US",
+        "text": "The annual financial report from July 15, 2026, shows that the company sold 4,500 units in 3 months, generating a net profit of $78,200 for the 12 partners."
+      },
+      {
+        "locale": "pt-BR",
+        "text": "O relatório financeiro anual de 15 de julho de 2026 mostra que a empresa vendeu 4.500 unidades em 3 meses, gerando um lucro líquido de R$ 78.200 para os 12 sócios."
+      },
+      {
+        "locale": "es-ES",
+        "text": "El informe financiero anual del 15 de julio de 2026 muestra que la empresa vendió 4.500 unidades en 3 meses, generando un beneficio neto de 78.200 € para los 12 socios."
+      },
+      {
+        "locale": "fr-FR",
+        "text": "Le rapport financier annuel du 15 juillet 2026 montre que l'entreprise a vendu 4 500 unités en 3 mois, générant un bénéfice net de 78 200 € pour les 12 partenaires."
+      },
+      {
+        "locale": "de-DE",
+        "text": "Der Jahresfinanzbericht vom 15. Juli 2026 zeigt, dass das Unternehmen in 3 Monaten 4.500 Einheiten verkauft und damit einen Nettogewinn von 78.200 € für die 12 Partner erzielt hat."
+      },
+      {
+        "locale": "hi-IN",
+        "text": "15 जुलाई 2026 की वार्षिक वित्तीय रिपोर्ट से पता चलता है कि कंपनी ने 3 महीनों में 4,500 इकाइयां बेचीं, जिससे 12 साझेदारों के लिए $78,200 का शुद्ध लाभ हुआ।"
+      },
+      {
+        "locale": "ja-JP",
+        "text": "2026年7月15日の年次財務報告書によると、同社は3か月間で4,500個を販売し、12人のパートナーに78,200ドルの純利益をもたらしました。"
+      },
+      {
+        "locale": "zh-CN",
+        "text": "2026年7月15日的年度财务报告显示，该公司在3个月内售出了4500件产品，为12位合伙人创造了78200美元的净利润。"
+      }
+    ]
+  },
+  {
+    "category": "Medical & Appointment",
+    "sentences": [
+      {
+        "locale": "en-US",
+        "text": "Please arrive at the clinic on Tuesday, November 3, at 2:15 PM for your 45-minute health examination, and bring $60.00 to pay the standard registration fee at the desk."
+      },
+      {
+        "locale": "pt-BR",
+        "text": "Por favor, chegue à clínica na terça-feira, 3 de novembro, às 14:15 para o seu exame de saúde de 45 minutos, e traga R$ 60,00 para pagar a taxa de registro padrão na recepção."
+      },
+      {
+        "locale": "es-ES",
+        "text": "Por favor, llegue a la clínica el martes 3 de noviembre a las 14:15 para su reconocimiento médico de 45 minutos, y traiga 60,00 € para abonar la tarifa de inscripción estándar en recepción."
+      },
+      {
+        "locale": "fr-FR",
+        "text": "Veuillez arriver à la clinique le mardi 3 novembre à 14h15 pour votre examen de santé de 45 minutes, et apportez 60,00 € pour payer les frais d'inscription standard à l'accueil."
+      },
+      {
+        "locale": "de-DE",
+        "text": "Bitte erscheinen Sie am Dienstag, den 3. November, um 14:15 Uhr zu Ihrer 45-minütigen Gesundheitsuntersuchung in der Klinik und bringen Sie 60,00 € mit, um die reguläre Anmeldegebühr am Schalter zu bezahlen."
+      },
+      {
+        "locale": "hi-IN",
+        "text": "कृपया अपनी 45 मिनट की स्वास्थ्य जांच के लिए मंगलवार, 3 नवंबर को दोपहर 2:15 बजे क्लिनिक पहुंचें, और डेस्क पर मानक पंजीकरण शुल्क का भुगतान करने के लिए $60.00 साथ लाएं।"
+      },
+      {
+        "locale": "ja-JP",
+        "text": "45分間の健康診断のため、11月3日火曜日の午後2時15分にクリニックにお越しいただき、受付で標準の登録料を支払うために60.00ドルをご持参ください。"
+      },
+      {
+        "locale": "zh-CN",
+        "text": "请于11月3日星期二下午2点15分到达诊所，进行45分钟的健康检查，并请携带60.00美元在前台支付标准挂号费。"
+      }
+    ]
+  },
+  {
+    "category": "Construction & Architecture",
+    "sentences": [
+      {
+        "locale": "en-US",
+        "text": "Construction on the 5-kilometer bridge began on April 8, 2024, requiring 250 engineers and a budget of $12,500,000 to finish all 6 traffic lanes before December 31."
+      },
+      {
+        "locale": "pt-BR",
+        "text": "A construção da ponte de 5 quilômetros começou em 8 de abril de 2024, exigindo 250 engenheiros e um orçamento de R$ 12.500.000 para concluir todas as 6 faixas de tráfego antes de 31 de dezembro."
+      },
+      {
+        "locale": "es-ES",
+        "text": "La construcción del puente de 5 kilómetros comenzó el 8 de abril de 2024, requiriendo 250 ingenieros y un presupuesto de 12.500.000 € para terminar los 6 carriles de circulación antes del 31 de diciembre."
+      },
+      {
+        "locale": "fr-FR",
+        "text": "La construction du pont de 5 kilomètres a commencé le 8 avril 2024, nécessitant 250 ingénieurs et un budget de 12 500 000 € pour terminer les 6 voies de circulation avant le 31 décembre."
+      },
+      {
+        "locale": "de-DE",
+        "text": "Der Bau der 5 Kilometer langen Brücke begann am 8. April 2024 und erforderte 250 Ingenieure sowie ein Budget von 12.500.000 €, um alle 6 Fahrspuren vor dem 31. Dezember fertigzustellen."
+      },
+      {
+        "locale": "hi-IN",
+        "text": "5 किलोमीटर लंबे पुल का निर्माण 8 अप्रैल 2024 को शुरू हुआ, जिसमें 31 दिसंबर से पहले सभी 6 ट्रैफिक लेन को पूरा करने के लिए 250 इंजीनियरों और $12,500,000 के बजट की आवश्यकता है।"
+      },
+      {
+        "locale": "ja-JP",
+        "text": "全長5キロメートルの橋の建設は2024年4月8日に始まり、12月31日までに全6車線を完成させるために250人のエンジニアと12,500,000ドルの予算を必要としています。"
+      },
+      {
+        "locale": "zh-CN",
+        "text": "这座5公里长的大桥于2024年4月8日开始施工，需要250名工程师和1250万美元的预算，才能在12月31日前完成全部6条车道。"
+      }
+    ]
+  },
+  {
+    "category": "Agriculture & Food Supply",
+    "sentences": [
+      {
+        "locale": "en-US",
+        "text": "Every week since August 19, 2025, the 7 regional farms have delivered 850 kilograms of fresh apples and 600 liters of milk to the central market for $2,430.75."
+      },
+      {
+        "locale": "pt-BR",
+        "text": "Toda semana, desde 19 de agosto de 2025, as 7 fazendas regionais entregam 850 quilogramas de maçãs frescas e 600 litros de leite ao mercado central por R$ 2.430,75."
+      },
+      {
+        "locale": "es-ES",
+        "text": "Cada semana desde el 19 de agosto de 2025, las 7 granjas regionales han entregado 850 kilogramos de manzanas frescas y 600 litros de leche al mercado central por 2.430,75 €."
+      },
+      {
+        "locale": "fr-FR",
+        "text": "Chaque semaine depuis le 19 août 2025, les 7 fermes régionales ont livré 850 kilogrammes de pommes fraîches et 600 litres de lait au marché central pour 2 430,75 €."
+      },
+      {
+        "locale": "de-DE",
+        "text": "Jede Woche seit dem 19. August 2025 haben die 7 regionalen Bauernhöfe 850 Kilogramm frische Äpfel und 600 Liter Milch für 2.430,75 € an den Zentralmarkt geliefert."
+      },
+      {
+        "locale": "hi-IN",
+        "text": "19 अगस्त 2025 से हर हफ्ते, 7 क्षेत्रीय फार्मों ने $2,430.75 में केंद्रीय बाजार को 850 किलोग्राम ताजे सेब और 600 लीटर दूध की आपूर्ति की है।"
+      },
+      {
+        "locale": "ja-JP",
+        "text": "2025年8月19日以来毎週、7つの地域の農場が850キログラムの新鮮なリンゴと600リットルの牛乳を2,430.75ドルで中央市場に届けています。"
+      },
+      {
+        "locale": "zh-CN",
+        "text": "自2025年8月19日以来，这7家地区农场每周都会向中央市场运送850公斤新鲜苹果和600升牛奶，总价为2430.75美元。"
+      }
+    ]
+  },
+  {
+    "category": "Library & Education",
+    "sentences": [
+      {
+        "locale": "en-US",
+        "text": "The university library bought 1,200 new science books on September 5, 2026, spending $43,800 so that 350 students can study in the main reading room until 10:00 PM every night."
+      },
+      {
+        "locale": "pt-BR",
+        "text": "A biblioteca da universidade comprou 1.200 novos livros de ciências em 5 de setembro de 2026, gastando R$ 43.800 para que 350 estudantes possam estudar na sala de leitura principal até as 22:00 todas as noites."
+      },
+      {
+        "locale": "es-ES",
+        "text": "La biblioteca de la universidad compró 1.200 libros nuevos de ciencias el 5 de septiembre de 2026, gastando 43.800 € para que 350 estudiantes puedan estudiar en la sala de lectura principal hasta las 22:00 todas las noches."
+      },
+      {
+        "locale": "fr-FR",
+        "text": "La bibliothèque universitaire a acheté 1 200 nouveaux livres de sciences le 5 septembre 2026, dépensant 43 800 € pour que 350 étudiants puissent étudier dans la salle de lecture principale jusqu'à 22h00 chaque soir."
+      },
+      {
+        "locale": "de-DE",
+        "text": "Die Universitätsbibliothek hat am 5. September 2026 1.200 neue wissenschaftliche Bücher gekauft und 43.800 € ausgegeben, damit 350 Studenten jeden Abend bis 22:00 Uhr im Hauptlesesaal lernen können."
+      },
+      {
+        "locale": "hi-IN",
+        "text": "विश्वविद्यालय के पुस्तकालय ने 5 सितंबर 2026 को $43,800 खर्च करके विज्ञान की 1,200 नई किताबें खरीदीं ताकि 350 छात्र हर रात 10:00 बजे तक मुख्य अध्ययन कक्ष में पढ़ सकें।"
+      },
+      {
+        "locale": "ja-JP",
+        "text": "大学の図書館は2026年9月5日に43,800ドルを費やして1,200冊の新しい科学書を購入し、350人の学生が毎晩午後10時までメインの閲覧室で勉強できるようにしました。"
+      },
+      {
+        "locale": "zh-CN",
+        "text": "大学图书馆于2026年9月5日花费43800美元购买了1200本新科学书籍，供350名学生每晚在主阅览室学习到晚上10点。"
+      }
+    ]
+  },
+  {
+    "category": "Energy & Utilities",
+    "sentences": [
+      {
+        "locale": "en-US",
+        "text": "According to the bill dated February 28, 2026, our household used 410 kilowatt-hours of electricity and 18 cubic meters of water over 30 days, costing a total of $112.40."
+      },
+      {
+        "locale": "pt-BR",
+        "text": "De acordo com a fatura datada de 28 de fevereiro de 2026, nossa residência consumiu 410 quilowatts-hora de eletricidade e 18 metros cúbicos de água em 30 dias, custando um total de R$ 112,40."
+      },
+      {
+        "locale": "es-ES",
+        "text": "Según la factura con fecha del 28 de febrero de 2026, nuestro hogar consumió 410 kilovatios-hora de electricidad y 18 metros cúbicos de agua durante 30 días, con un coste total de 112,40 €."
+      },
+      {
+        "locale": "fr-FR",
+        "text": "Selon la facture datée du 28 février 2026, notre foyer a consommé 410 kilowattheures d'électricité et 18 mètres cubes d'eau sur 30 jours, pour un coût total de 112,40 €."
+      },
+      {
+        "locale": "de-DE",
+        "text": "Laut der Rechnung vom 28. Februar 2026 hat unser Haushalt in 30 Tagen 410 Kilowattstunden Strom und 18 Kubikmeter Wasser verbraucht, was insgesamt 112,40 € gekostet hat."
+      },
+      {
+        "locale": "hi-IN",
+        "text": "28 फरवरी 2026 के बिल के अनुसार, हमारे घर ने 30 दिनों में 410 किलोवाट-घंटे बिजली और 18 घन मीटर पानी का उपयोग किया, जिसकी कुल लागत $112.40 है।"
+      },
+      {
+        "locale": "ja-JP",
+        "text": "2026年2月28日付の請求書によると、私たちの世帯は30日間で410キロワット時の電気と18立方メートルの水を使用し、合計で112.40ドルの費用がかかりました。"
+      },
+      {
+        "locale": "zh-CN",
+        "text": "根据2026年2月28日的账单，我们家庭在30天内使用了410千瓦时的电和18立方米的水，总费用为112.40美元。"
+      }
+    ]
+  },
+  {
+    "category": "Event & Conference",
+    "sentences": [
+      {
+        "locale": "en-US",
+        "text": "The international technology conference opens on June 17, 2027, at 8:45 AM, where 95 speakers from 24 countries will present their research to 1,500 guests for an entry fee of $275.00."
+      },
+      {
+        "locale": "pt-BR",
+        "text": "A conferência internacional de tecnologia começa em 17 de junho de 2027, às 8:45 da manhã, onde 95 palestrantes de 24 países apresentarão suas pesquisas para 1.500 convidados por uma taxa de entrada de R$ 275,00."
+      },
+      {
+        "locale": "es-ES",
+        "text": "La conferencia internacional de tecnología comienza el 17 de junio de 2027 a las 8:45 de la mañana, donde 95 ponentes de 24 países presentarán sus investigaciones ante 1.500 invitados por una tarifa de entrada de 275,00 €."
+      },
+      {
+        "locale": "fr-FR",
+        "text": "La conférence internationale sur la technologie s'ouvre le 17 juin 2027 à 8h45, où 95 intervenants de 24 pays présenteront leurs recherches à 1 500 invités pour un droit d'entrée de 275,00 €."
+      },
+      {
+        "locale": "de-DE",
+        "text": "Die internationale Technologiekonferenz beginnt am 17. Juni 2027 um 8:45 Uhr, wobei 95 Redner aus 24 Ländern ihre Forschungsergebnisse vor 1.500 Gästen gegen eine Eintrittsgebühr von 275,00 € präsentieren werden."
+      },
+      {
+        "locale": "hi-IN",
+        "text": "अंतर्राष्ट्रीय प्रौद्योगिकी सम्मेलन 17 जून 2027 को सुबह 8:45 बजे शुरू होगा, जहां 24 देशों के 95 वक्ता $275.00 के प्रवेश शुल्क पर 1,500 मेहमानों के सामने अपना शोध प्रस्तुत करेंगे।"
+      },
+      {
+        "locale": "ja-JP",
+        "text": "国際技術会議は2027年6月17日の午前8時45分に開幕し、24か国から95人の講演者が参加費275.00ドルで1,500人の招待客に研究を発表します。"
+      },
+      {
+        "locale": "zh-CN",
+        "text": "国际技术会议将于2027年6月17日上午8点45分开幕，届时来自24个国家的95位演讲者将向1500名嘉宾展示他们的研究成果，入场费为275.00美元。"
+      }
+    ]
+  }
+]
