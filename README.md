@@ -80,7 +80,7 @@ Each request sends a Base64-encoded `.wav` clip to `/v1/systemone` and evaluates
 ### Request
 
 ```bash
-curl [http://127.0.0.1:9931/v1/systemone](http://127.0.0.1:9931/v1/systemone) -H "Content-Type: application/json" -d @- <<JSON
+curl http://127.0.0.1:9931/v1/systemone -H "Content-Type: application/json" -d @- <<JSON
 {
   "files": [
     "data:audio/wav;base64,$(base64 < output_wavs/09_energy_utilities_hi-IN_female_hi-in-commercial-3.wav | tr -d '\n')"
@@ -159,7 +159,7 @@ The model predicts `hi-IN` with **94.53% confidence** and scores `male_speaker` 
 ### Request
 
 ```bash
-curl [http://127.0.0.1:9931/v1/systemone](http://127.0.0.1:9931/v1/systemone) -H "Content-Type: application/json" -d @- <<JSON
+curl http://127.0.0.1:9931/v1/systemone -H "Content-Type: application/json" -d @- <<JSON
 {
   "files": [
     "data:audio/wav;base64,$(base64 < output_wavs/02_retail_e_commerce_fr-FR_male_fr-fr-concierge-8.wav | tr -d '\n')"
